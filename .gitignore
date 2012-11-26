@@ -1,0 +1,10 @@
+*.cache
+*.dll
+*.pdb
+*.txt
+*.suo
+*.pfx
+*.appxmanifest
+!README.txt
+LiveTileExample/bin/*
+LiveTileExample/obj/*
